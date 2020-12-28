@@ -1,0 +1,28 @@
+{
+  "name": "discourse-solarized-theme",
+  "about_url": "",
+  "license_url": "https://github.com/MeghnaAJ/discourse-solarized-theme/blob/master/LICENSE",
+  "author": "Meghna",
+  "assets": {},
+  "color_schemes": {
+    "solarized-dark": {
+      "primary": "cacaca",
+      "secondary": "002b36",
+      "secondary-high": "465f60",
+      "secondary-medium": "7d8e94",
+      "secondary-low": "a6b2b7",
+      "tertiary": "0088cc",
+      "quaternary": "e45735",
+      "header_background": "002b36",
+      "header_primary": "cacaca",
+      "highlight": "ffff4d",
+      "highlight-medium": "004456",
+      "danger": "e45735",
+      "success": "009900",
+      "love": "d33682",
+      "danger-medium": "ec8972",
+      "tertiary-hover": "356287"
+    }
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
